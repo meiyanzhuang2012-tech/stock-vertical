@@ -1,0 +1,6 @@
+materials/
+clips/
+stills/
+__pycache__/
+*.pyc
+.venv/

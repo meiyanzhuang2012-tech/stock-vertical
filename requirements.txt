@@ -1,0 +1,2 @@
+nodriver>=0.34
+Pillow>=9.0
