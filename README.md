@@ -3,6 +3,8 @@
 Grab free stock photos from Pixabay **without an API key** and turn them into
 short vertical clips for shorts / reels / TikTok-style video.
 
+**English** | [中文](README.zh-CN.md)
+
 ```
 python fetch.py search "artificial intelligence" -n 8 --to-video
 ```
